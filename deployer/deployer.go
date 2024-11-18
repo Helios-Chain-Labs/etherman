@@ -13,7 +13,7 @@ import (
 	"github.com/pkg/errors"
 	log "github.com/xlab/suplog"
 
-	"github.com/InjectiveLabs/etherman/sol"
+	"github.com/Helios-Chain-Labs/etherman/sol"
 )
 
 var (

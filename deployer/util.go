@@ -21,7 +21,7 @@ import (
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/crypto"
 
-	"github.com/InjectiveLabs/etherman/sol"
+	"github.com/Helios-Chain-Labs/etherman/sol"
 )
 
 var (

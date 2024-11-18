@@ -1,4 +1,4 @@
-module github.com/InjectiveLabs/etherman
+module github.com/Helios-Chain-Labs/etherman
 
 go 1.15
 
